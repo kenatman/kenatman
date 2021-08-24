@@ -10,7 +10,7 @@
 
 
 ### Growing Developer!  
-I’m a front-end developer who loves to facilitate interactions with clients. Being able to directly improve the client's experience is why I love the front-end. 
+I’m a web developer who loves to facilitate interactions with clients. Being able to directly improve the client's experience is why I love the front-end. 
 And, I'm also interested in building back-end server. I have an experience where I built from front-end to back-end to complete my project. 
   
   
