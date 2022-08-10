@@ -21,10 +21,10 @@ And, I'm also interested in building back-end server. I have an experience where
 ## About me  
 <table><tr><td valign="top" width="70%">
 
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning React-Native 
   
 
-- ❓ Ask me about anything related to Javascript & NodeJS & React  
+- ❓ Ask me about anything related to Javascript & NodeJS & React & TypeScript  
   
 
 - ⚡ Fun fact: I practiced Kendo for few years  
